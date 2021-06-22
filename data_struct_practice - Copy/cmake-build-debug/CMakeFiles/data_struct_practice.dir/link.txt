@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\data_struct_practice.dir/objects.a
+C:\MinGW\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\ar.exe cr CMakeFiles\data_struct_practice.dir/objects.a @CMakeFiles\data_struct_practice.dir\objects1.rsp
+C:\MinGW\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\data_struct_practice.dir/objects.a -Wl,--no-whole-archive -o data_struct_practice.exe -Wl,--out-implib,libdata_struct_practice.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\data_struct_practice.dir\linklibs.rsp
